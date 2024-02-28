@@ -31,15 +31,15 @@
     "dependencies": {
         "lodash": "^4.3.0",
         "elementtree": "^0.1.6",
-        "plist": "^1.2.0",
+        "plist": "^3.1.0",
         "xcode": "^0.8.9",
         "colors": "^1.1.2",
-        "shelljs": "^0.7.0",
+        "shelljs": "^0.8.5",
         "tostr": "^0.1.0"
     },
     "devDependencies": {
         "jshint": "^2.6.0",
-        "got": "^6.5.0"
+        "got": "^14.2.0"
     },
     "scripts": {
         "test": "jshint hooks"
